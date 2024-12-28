@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{CWICZENIA NA MIESNIE KLATKI PIERSIOWEJ:}{2}{0}{1}
+\beamer@sectionintoc {2}{CWICZENIA NA MIESNIE PLECOW:}{3}{0}{2}
+\beamer@sectionintoc {3}{CWICZENIA NA BICEPS:}{4}{0}{3}
+\beamer@sectionintoc {4}{CWICZENIA NA TRICEPS:}{5}{0}{4}
+\beamer@sectionintoc {5}{CWICZENIA NA MIESNIE BARKOW:}{6}{0}{5}
+\beamer@sectionintoc {6}{CWICZENIA NA MIESNIE BRZUCHA:}{7}{0}{6}
+\beamer@sectionintoc {7}{CWICZENIA NA MIESNIE NOG:}{8}{0}{7}
