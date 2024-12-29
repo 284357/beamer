@@ -5,3 +5,4 @@
 \beamer@sectionintoc {5}{CWICZENIA NA MIESNIE BARKOW:}{6}{0}{5}
 \beamer@sectionintoc {6}{CWICZENIA NA MIESNIE BRZUCHA:}{7}{0}{6}
 \beamer@sectionintoc {7}{CWICZENIA NA MIESNIE NOG:}{8}{0}{7}
+\beamer@sectionintoc {8}{obraz}{9}{0}{8}
